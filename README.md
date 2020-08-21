@@ -1,7 +1,7 @@
 # English quiz
 
 Project developed for the "Introduction to programming" course.
-The SW runs basically a quiz about english expressions, where at each run only one
+The SW runs basically a quiz about english expressions, where at each run only one answers
 is correct.
 The questions are defined inside the .dat file QuizQuestions and the
 correct answer starts with "*".
