@@ -7,4 +7,4 @@ The questions are defined inside the .dat file QuizQuestions and the
 correct answer starts with "*".
 The time performance of each user is recorded, such as the percentage of right / wrong answers.
 
-### Technologies used: Java
+### Technologies used: Java, Java Swing
